@@ -1,2 +1,5 @@
 # Editor
 .vscode/
+
+# nand2tetris simulator output
+*.out
