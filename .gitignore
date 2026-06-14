@@ -3,3 +3,6 @@
 
 # nand2tetris simulator output
 *.out
+
+# nand2tetris tool state (last-opened folder etc.)
+tools/bin/*.dat
